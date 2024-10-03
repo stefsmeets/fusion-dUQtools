@@ -30,6 +30,13 @@ To install:
 pip install duqtools
 ```
 
+Or to use on the gateway:
+
+```console
+module use /gss_efgw_work/work/g2vazizi/duqtools/modules
+module load duqtools/3.1.1
+```
+
 The source code is available from [Github](https://github.com/duqtools/duqtools).
 
 Suggestions, improvements, and edits are most welcome.
